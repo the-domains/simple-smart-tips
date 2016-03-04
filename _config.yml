@@ -1,6 +1,6 @@
 name: Simple Smart Tips
 favicon: null
-layout_spectrum: 0.7249818199779838
+layout_spectrum: 1
 typography_spectrum: 0.7522001937031746
 title: Simple Smart Tips
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.10277373343706131
+  brandStrength: 0.1875
   lightness: 0.08839332079514861
   saturation: 0.9764218067284673
   rhythmicContrast: 0.9629641813226044
