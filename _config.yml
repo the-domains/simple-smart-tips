@@ -1,0 +1,28 @@
+name: Simple Smart Tips
+favicon: null
+layout_spectrum: 0.7249818199779838
+typography_spectrum: 0.7522001937031746
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.10277373343706131
+  lightness: 0.08839332079514861
+  saturation: 0.9764218067284673
+  rhythmicContrast: 0.9629641813226044
+purpose: []
